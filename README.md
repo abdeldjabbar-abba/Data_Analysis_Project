@@ -271,7 +271,7 @@ Recorded customer locations are concentrated in southeastern Brazil. **São Paul
 <table>
   <tr>
     <td width="46%" valign="top"><img src="assets/map_customers.png" alt="Map of Brazil with bubbles sized by unique customers per state"></td>
-    <td width="54%" valign="top"><img src="Plots/05_B_customers_by_state.png" alt="Unique customers by state"></td>
+    <td width="54%" valign="top"><img src="Plots/25_B_customers_by_state.png" alt="Unique customers by state"></td>
   </tr>
 </table>
 
@@ -589,14 +589,3 @@ Data_Analysis_Project/
     ├── build_report.py             # Rebuilds the PDF
     └── charts/                     # Report-quality charts
 ```
-
-## 12. How to Run
-
-```bash
-pip install pandas numpy matplotlib seaborn squarify jupyter
-jupyter notebook Data_Analysis.ipynb      # run all cells from the top
-```
-
-`squarify` is needed only for the category treemap. The report scripts additionally need `reportlab` (`python Report/build_charts.py`, then `python Report/build_report.py`).
-
-<p align="center"><sub>Dataset: Brazilian E-Commerce Public Dataset by Olist. Analysis for educational and portfolio purposes.</sub></p>
