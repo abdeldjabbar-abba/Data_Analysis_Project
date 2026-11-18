@@ -97,12 +97,13 @@ The dataset is anonymized and covers purchases from **4 September 2016 to 17 Oct
 
 | Area | Questions answered |
 |---|---|
-| **Sales** | How many orders and how much product value? How do they move month by month? Which months peak? Is the business growing? |
-| **Customers** | How many unique customers? How many return? Who spends most? Where do they live? |
-| **Products** | Which categories earn the most? Which get the most orders? Which underperform? How do categories relate to reviews? |
-| **Delivery** | How long does delivery take? How many orders are late? Which states wait longest? Does lateness hurt satisfaction? |
-| **Payments** | Which methods are used most and carry the most value? How are installments used? |
-| **Sellers** | Who leads on sales and volume? How reliable are the top sellers? Does seller location matter? Which sellers receive poor reviews? |
+| **Sales** | How many orders and how much product value ? <br> How do they move month by month ? <br> Which months peak ? <br> Is the business growing ? |
+| **Customers** | How many unique customers ? <br> How many return ? <br> Who spends most ? <br> Where do they live ? |
+| **Products** | Which categories earn the most? Which get the most orders ? <br> Which underperform ? <br> How do categories relate to reviews ? |
+| **Delivery** | How long does delivery take ? <br> How many orders are late? Which states wait longest ? <br> Does lateness hurt satisfaction ? |
+| **Payments** | Which methods are used most and carry the most value ? <br> How are installments used ? |
+| **Sellers** | Who leads on sales and volume? How reliable are the top sellers ? <br> Does seller location matter ? <br> Which sellers receive poor reviews ? |
+
 
 ### 1.4 Data Model
 
