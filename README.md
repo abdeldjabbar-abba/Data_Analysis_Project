@@ -271,7 +271,7 @@ Recorded customer locations are concentrated in southeastern Brazil. **São Paul
 <table>
   <tr>
     <td width="46%" valign="top"><img src="assets/map_customers.png" alt="Map of Brazil with bubbles sized by unique customers per state"></td>
-    <td width="54%" valign="top"><img src="Plots/25_B_customers_by_state.png" alt="Unique customers by state"></td>
+    <td width="54%" valign="top"><img src="Plots/05_B_customers_by_state.png" alt="Unique customers by state"></td>
   </tr>
 </table>
 
